@@ -179,3 +179,6 @@
 #cssmenu.small-screen #menu-button.menu-opened:before {
   background: #dff2fa;
 }
+ul.drop-content{
+	display:none;
+}
